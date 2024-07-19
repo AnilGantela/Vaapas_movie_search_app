@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaapas_movie_search_app/static/css/main.e6c13ad2.css",
+    "main.js": "/Vaapas_movie_search_app/static/js/main.b7b2f7fa.js",
+    "static/js/453.d150de9e.chunk.js": "/Vaapas_movie_search_app/static/js/453.d150de9e.chunk.js",
+    "index.html": "/Vaapas_movie_search_app/index.html",
+    "main.e6c13ad2.css.map": "/Vaapas_movie_search_app/static/css/main.e6c13ad2.css.map",
+    "main.b7b2f7fa.js.map": "/Vaapas_movie_search_app/static/js/main.b7b2f7fa.js.map",
+    "453.d150de9e.chunk.js.map": "/Vaapas_movie_search_app/static/js/453.d150de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7b2f7fa.js"
+  ]
+}
